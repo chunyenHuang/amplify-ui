@@ -1,5 +1,11 @@
 # @aws-amplify/ui-react
 
+## 2.2.1
+
+### Patch Changes
+
+- [#1207](https://github.com/aws-amplify/amplify-ui/pull/1207) [`b920368e7`](https://github.com/aws-amplify/amplify-ui/commit/b920368e7037035b798689716bdcd0c12cd4df67) Thanks [@ErikCH](https://github.com/ErikCH)! - Added translations for errors for confirm sign in
+
 ## 2.2.0
 
 ### Minor Changes
